@@ -3,7 +3,7 @@
 ## JANJI
 Saya [Azzahra Alika Putri Yudha]  [2105899] mengerjakan LATIHAN 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
 
-##SPESIFIKASI TUGAS
+## SPESIFIKASI TUGAS
 - Add more property (component type : any, except text field)
 - Add method to reset form
 - Refresh table after update and delete
